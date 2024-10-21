@@ -18,4 +18,4 @@ The Memory Game is a classic card-matching game designed to test your memory and
 - **CSS**: Styling and layout of the game components
 - **JavaScript**: Game logic and interactivity
 
-
+Play this game on : https://ameenzehra.github.io/memory-game/
